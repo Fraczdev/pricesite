@@ -21,3 +21,6 @@ yarn-error.log*
 
 # VSCode
 .vscode/
+
+# GitHub Pages
+# Do NOT ignore docs/ so it can be deployed from main branch
