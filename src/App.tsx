@@ -41,7 +41,7 @@ const App: React.FC = () => {
 
   return (
     <div>
-      <h1 style={{color: 'red'}}>TEST</h1>
+      <h1 style={{color: 'red'}}>TESTS</h1>
       <div className="container">
         <h1>Subscription Services</h1>
         <div className="services-list">
