@@ -40,27 +40,30 @@ const App: React.FC = () => {
   if (error) return <div className="error">{error}</div>;
 
   return (
-    <div className="container">
-      <h1>Subscription Services</h1>
-      <div className="services-list">
-        {services.map((service) => (
-          <div className="service-card" key={service.id}>
-            <h2>{service.name}</h2>
-            <ul className="plans-list">
-              {service.plans.map((plan) => (
-                <li key={plan.name} className="plan-item">
-                  <span className="plan-name">{plan.name}</span>
-                  <span className="plan-price">
-                    {currencySymbols[plan.currency] || plan.currency} {plan.price.toFixed(2)}
-                  </span>
-                </li>
-              ))}
-            </ul>
-            <a className="cancel-link" href={service.cancelURL} target="_blank" rel="noopener noreferrer">
-              Cancel Subscription
-            </a>
-          </div>
-        ))}
+    <div>
+      <h1 style={{color: 'red'}}>TEST</h1>
+      <div className="container">
+        <h1>Subscription Services</h1>
+        <div className="services-list">
+          {services.map((service) => (
+            <div className="service-card" key={service.id}>
+              <h2>{service.name}</h2>
+              <ul className="plans-list">
+                {service.plans.map((plan) => (
+                  <li key={plan.name} className="plan-item">
+                    <span className="plan-name">{plan.name}</span>
+                    <span className="plan-price">
+                      {currencySymbols[plan.currency] || plan.currency} {plan.price.toFixed(2)}
+                    </span>
+                  </li>
+                ))}
+              </ul>
+              <a className="cancel-link" href={service.cancelURL} target="_blank" rel="noopener noreferrer">
+                Cancel Subscription
+              </a>
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   );
