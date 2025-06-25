@@ -155,5 +155,92 @@
       { "name": "Essential", "price": 5.99, "currency": "USD" }
     ],
     "cancelURL": "https://help.paramountplus.com/s/article/PD-How-can-I-cancel-my-Paramount-subscription"
+  },
+  {
+    "id": "crunchyroll",
+    "name": "Crunchyroll",
+    "plans": [
+      { "name": "Fan", "price": 7.99, "currency": "USD" },
+      { "name": "Mega Fan", "price": 9.99, "currency": "USD" },
+      { "name": "Ultimate Fan", "price": 14.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://help.crunchyroll.com/hc/en-us/articles/206439365-How-do-I-cancel-my-membership-"
+  },
+  {
+    "id": "audible",
+    "name": "Audible",
+    "plans": [
+      { "name": "Premium Plus", "price": 14.95, "currency": "USD" }
+    ],
+    "cancelURL": "https://help.audible.com/s/article/How-can-I-cancel-my-membership"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "plans": [
+      { "name": "Pro", "price": 8.75, "currency": "USD" },
+      { "name": "Business+", "price": 15.00, "currency": "USD" }
+    ],
+    "cancelURL": "https://slack.com/help/articles/201563847-Cancel-a-paid-Slack-subscription"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "plans": [
+      { "name": "Plus", "price": 8.00, "currency": "USD" },
+      { "name": "Business", "price": 15.00, "currency": "USD" }
+    ],
+    "cancelURL": "https://www.notion.so/help/cancel-subscription"
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo Plus",
+    "plans": [
+      { "name": "Monthly", "price": 12.99, "currency": "USD" },
+      { "name": "Annual", "price": 83.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.duolingo.com/hc/en-us/articles/204630790-How-do-I-cancel-my-Duolingo-Plus-subscription-"
+  },
+  {
+    "id": "evernote",
+    "name": "Evernote",
+    "plans": [
+      { "name": "Personal", "price": 14.99, "currency": "USD" },
+      { "name": "Professional", "price": 17.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://help.evernote.com/hc/en-us/articles/209005247-How-to-cancel-a-subscription"
+  },
+  {
+    "id": "1password",
+    "name": "1Password",
+    "plans": [
+      { "name": "Individual", "price": 2.99, "currency": "USD" },
+      { "name": "Families", "price": 4.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.1password.com/cancel-account/"
+  },
+  {
+    "id": "calm",
+    "name": "Calm",
+    "plans": [
+      { "name": "Annual", "price": 69.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.calm.com/hc/en-us/articles/115000489463-How-do-I-cancel-my-subscription-"
+  },
+  {
+    "id": "headspace",
+    "name": "Headspace",
+    "plans": [
+      { "name": "Annual", "price": 69.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://help.headspace.com/hc/en-us/articles/360001562408-How-to-cancel-your-Headspace-subscription"
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "plans": [
+      { "name": "Pro", "price": 14.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://www.canva.com/help/article/cancel-subscription/"
   }
 ]
