@@ -20,7 +20,7 @@ function App() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('/src/services.json')
+    fetch('./services.json') // Use relative path for GitHub Pages
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load services');
         return res.json();
