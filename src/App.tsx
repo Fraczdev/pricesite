@@ -1,5 +1,5 @@
-import { useEffect, useState } from 'react'
-import './App.css'
+import React, { useEffect, useState } from 'react';
+import './App.css';
 
 interface Plan {
   name: string;
@@ -14,13 +14,19 @@ interface Service {
   cancelURL: string;
 }
 
-function App() {
+const currencySymbols: Record<string, string> = {
+  USD: '$',
+  EUR: '€',
+  GBP: '£',
+};
+
+const App: React.FC = () => {
   const [services, setServices] = useState<Service[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('./services.json') // Use relative path for GitHub Pages
+    fetch('./services.json')
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load services');
         return res.json();
@@ -44,7 +50,9 @@ function App() {
               {service.plans.map((plan) => (
                 <li key={plan.name} className="plan-item">
                   <span className="plan-name">{plan.name}</span>
-                  <span className="plan-price">{plan.price.toFixed(2)} {plan.currency}</span>
+                  <span className="plan-price">
+                    {currencySymbols[plan.currency] || plan.currency} {plan.price.toFixed(2)}
+                  </span>
                 </li>
               ))}
             </ul>
@@ -56,6 +64,6 @@ function App() {
       </div>
     </div>
   );
-}
+};
 
-export default App
+export default App;
