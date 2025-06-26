@@ -1,0 +1,148 @@
+[
+  {
+    "id": "icloud_plus",
+    "name": "iCloud+",
+    "logoURL": "https://icon.horse/icon/icloud.com.png",
+    "plans": [
+      { "name": "50GB", "price": 0.99, "currency": "USD" },
+      { "name": "200GB", "price": 2.99, "currency": "USD" },
+      { "name": "2TB", "price": 9.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.apple.com/en-us/HT207689"
+  },
+  {
+    "id": "apple_music",
+    "name": "Apple Music",
+    "logoURL": "https://icon.horse/icon/music.apple.com.png",
+    "plans": [
+      { "name": "Individual", "price": 10.99, "currency": "USD" },
+      { "name": "Family", "price": 16.99, "currency": "USD" },
+      { "name": "Student", "price": 5.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.apple.com/en-us/HT202039"
+  },
+  {
+    "id": "apple_tv_plus",
+    "name": "Apple TV+",
+    "logoURL": "https://icon.horse/icon/tv.apple.com.png",
+    "plans": [
+      { "name": "Monthly", "price": 9.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.apple.com/en-us/HT210551"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "logoURL": "https://icon.horse/icon/netflix.com.png",
+    "plans": [
+      { "name": "Standard", "price": 15.49, "currency": "USD" },
+      { "name": "Premium", "price": 22.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://help.netflix.com/en/node/407"
+  },
+  {
+    "id": "disney_plus",
+    "name": "Disney+",
+    "logoURL": "https://icon.horse/icon/disneyplus.com.png",
+    "plans": [
+      { "name": "Monthly", "price": 7.99, "currency": "USD" },
+      { "name": "Annual", "price": 79.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://help.disneyplus.com/csp?id=csp_article_content&article=Cancel-Disney-Plus"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "logoURL": "https://icon.horse/icon/spotify.com.png",
+    "plans": [
+      { "name": "Individual", "price": 10.99, "currency": "USD" },
+      { "name": "Family", "price": 16.99, "currency": "USD" },
+      { "name": "Student", "price": 5.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.spotify.com/us/article/cancel-premium/"
+  },
+  {
+    "id": "adobe_cc",
+    "name": "Adobe Creative Cloud",
+    "logoURL": "https://icon.horse/icon/adobe.com.png",
+    "plans": [
+      { "name": "All Apps", "price": 59.99, "currency": "USD" },
+      { "name": "Photography", "price": 19.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://helpx.adobe.com/manage-account/using/cancel-subscription.html"
+  },
+  {
+    "id": "amazon_prime",
+    "name": "Amazon Prime",
+    "logoURL": "https://icon.horse/icon/amazon.com.png",
+    "plans": [
+      { "name": "Monthly", "price": 14.99, "currency": "USD" },
+      { "name": "Annual", "price": 139.00, "currency": "USD" }
+    ],
+    "cancelURL": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2MQS5RMHEFZ4K2D"
+  },
+  {
+    "id": "xbox_game_pass",
+    "name": "Xbox Game Pass",
+    "logoURL": "https://icon.horse/icon/xbox.com.png",
+    "plans": [
+      { "name": "Ultimate", "price": 16.99, "currency": "USD" },
+      { "name": "PC", "price": 9.99, "currency": "USD" },
+      { "name": "Console", "price": 10.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.xbox.com/en-US/help/subscriptions-billing/manage-subscriptions/cancel-recurring-billing-or-subscription"
+  },
+  {
+    "id": "peloton",
+    "name": "Peloton",
+    "logoURL": "https://icon.horse/icon/onepeloton.com.png",
+    "plans": [
+      { "name": "App One", "price": 12.99, "currency": "USD" },
+      { "name": "App+", "price": 24.00, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.onepeloton.com/hc/en-us/articles/360044202032-How-do-I-cancel-my-Peloton-Membership-"
+  },
+  {
+    "id": "microsoft_365",
+    "name": "Microsoft 365",
+    "logoURL": "https://icon.horse/icon/microsoft.com.png",
+    "plans": [
+      { "name": "Personal", "price": 69.99, "currency": "USD" },
+      { "name": "Family", "price": 99.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.microsoft.com/en-us/account-billing/cancel-a-microsoft-subscription-b1c8be5d-0875-4b5e-9c6b-4bfb6ee712c8"
+  },
+  {
+    "id": "youtube_premium",
+    "name": "YouTube Premium",
+    "logoURL": "https://icon.horse/icon/youtube.com.png",
+    "plans": [
+      { "name": "Individual", "price": 13.99, "currency": "USD" },
+      { "name": "Family", "price": 22.99, "currency": "USD" },
+      { "name": "Student", "price": 7.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.google.com/youtube/answer/6306276?hl=en"
+  },
+  {
+    "id": "dropbox",
+    "name": "Dropbox",
+    "logoURL": "https://icon.horse/icon/dropbox.com.png",
+    "plans": [
+      { "name": "Plus", "price": 11.99, "currency": "USD" },
+      { "name": "Family", "price": 19.99, "currency": "USD" },
+      { "name": "Professional", "price": 19.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://help.dropbox.com/accounts-billing/cancellations-refunds/cancel-subscription"
+  },
+  {
+    "id": "google_one",
+    "name": "Google One",
+    "logoURL": "https://icon.horse/icon/google.com.png",
+    "plans": [
+      { "name": "100GB", "price": 1.99, "currency": "USD" },
+      { "name": "200GB", "price": 2.99, "currency": "USD" },
+      { "name": "2TB", "price": 9.99, "currency": "USD" }
+    ],
+    "cancelURL": "https://support.google.com/googleone/answer/9059543?hl=en"
+  }
+]
