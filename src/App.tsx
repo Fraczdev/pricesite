@@ -10,6 +10,7 @@ interface Plan {
 interface Service {
   id: string;
   name: string;
+  logoURL?: string;
   plans: Plan[];
   cancelURL: string;
 }
@@ -41,13 +42,22 @@ const App: React.FC = () => {
 
   return (
     <div>
-      <h1 style={{color: 'red'}}>TESTS</h1>
       <div className="container">
         <h1>Subscription Services</h1>
         <div className="services-list">
           {services.map((service) => (
             <div className="service-card" key={service.id}>
-              <h2>{service.name}</h2>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                {service.logoURL && (
+                  <img
+                    src={service.logoURL}
+                    alt={service.name + ' logo'}
+                    style={{ width: 32, height: 32, objectFit: 'contain', marginRight: 8 }}
+                    loading="lazy"
+                  />
+                )}
+                <h2>{service.name}</h2>
+              </div>
               <ul className="plans-list">
                 {service.plans.map((plan) => (
                   <li key={plan.name} className="plan-item">
