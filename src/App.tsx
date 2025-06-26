@@ -52,8 +52,12 @@ const App: React.FC = () => {
                   <img
                     src={service.logoURL}
                     alt={service.name + ' logo'}
-                    style={{ width: 32, height: 32, objectFit: 'contain', marginRight: 8 }}
+                    style={{ width: 32, height: 32, objectFit: 'contain', marginRight: 8, background: '#fff', border: '1px solid #eee', borderRadius: 8 }}
                     loading="lazy"
+                    onError={e => {
+                      console.error('Logo failed to load:', service.logoURL);
+                      (e.target as HTMLImageElement).style.display = 'none';
+                    }}
                   />
                 )}
                 <h2>{service.name}</h2>
