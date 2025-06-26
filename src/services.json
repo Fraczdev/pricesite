@@ -36,7 +36,8 @@
     "logoURL": "https://icon.horse/icon/netflix.com.png",
     "plans": [
       { "name": "Standard", "price": 15.49, "currency": "USD" },
-      { "name": "Premium", "price": 22.99, "currency": "USD" }
+      { "name": "Premium", "price": 22.99, "currency": "USD" },
+      { "name": "No Ads", "price": 22.99, "currency": "USD" }
     ],
     "cancelURL": "https://help.netflix.com/en/node/407"
   },
