@@ -2,7 +2,7 @@
   {
     "id": "icloud_plus",
     "name": "iCloud+",
-    "icon": "SiApple",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apple.svg",
     "plans": [
       { "name": "50GB", "price": 0.99, "currency": "USD" },
       { "name": "200GB", "price": 2.99, "currency": "USD" },
@@ -13,7 +13,7 @@
   {
     "id": "apple_music",
     "name": "Apple Music",
-    "icon": "SiApplemusic",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/applemusic.svg",
     "plans": [
       { "name": "Individual", "price": 10.99, "currency": "USD" },
       { "name": "Family", "price": 16.99, "currency": "USD" },
@@ -24,7 +24,7 @@
   {
     "id": "apple_tv_plus",
     "name": "Apple TV+",
-    "icon": "SiAppletv",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appletv.svg",
     "plans": [
       { "name": "Monthly", "price": 9.99, "currency": "USD" }
     ],
@@ -33,7 +33,7 @@
   {
     "id": "netflix",
     "name": "Netflix",
-    "icon": "SiNetflix",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netflix.svg",
     "plans": [
       { "name": "Standard", "price": 15.49, "currency": "USD" },
       { "name": "Premium", "price": 22.99, "currency": "USD" }
@@ -43,7 +43,7 @@
   {
     "id": "disney_plus",
     "name": "Disney+",
-    "icon": "SiDisneyplus",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/disneyplus.svg",
     "plans": [
       { "name": "Monthly", "price": 7.99, "currency": "USD" },
       { "name": "Annual", "price": 79.99, "currency": "USD" }
@@ -53,7 +53,7 @@
   {
     "id": "spotify",
     "name": "Spotify",
-    "icon": "SiSpotify",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg",
     "plans": [
       { "name": "Individual", "price": 10.99, "currency": "USD" },
       { "name": "Family", "price": 16.99, "currency": "USD" },
@@ -64,7 +64,7 @@
   {
     "id": "adobe_cc",
     "name": "Adobe Creative Cloud",
-    "icon": "SiAdobecreativecloud",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobecreativecloud.svg",
     "plans": [
       { "name": "All Apps", "price": 59.99, "currency": "USD" },
       { "name": "Photography", "price": 19.99, "currency": "USD" }
@@ -74,7 +74,7 @@
   {
     "id": "amazon_prime",
     "name": "Amazon Prime",
-    "icon": "SiAmazonprime",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonprime.svg",
     "plans": [
       { "name": "Monthly", "price": 14.99, "currency": "USD" },
       { "name": "Annual", "price": 139.00, "currency": "USD" }
@@ -84,7 +84,7 @@
   {
     "id": "xbox_game_pass",
     "name": "Xbox Game Pass",
-    "icon": "SiXbox",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/xbox.svg",
     "plans": [
       { "name": "Ultimate", "price": 16.99, "currency": "USD" },
       { "name": "PC", "price": 9.99, "currency": "USD" },
@@ -95,7 +95,7 @@
   {
     "id": "peloton",
     "name": "Peloton",
-    "icon": "SiPeloton",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/peloton.svg",
     "plans": [
       { "name": "App One", "price": 12.99, "currency": "USD" },
       { "name": "App+", "price": 24.00, "currency": "USD" }
@@ -105,7 +105,7 @@
   {
     "id": "microsoft_365",
     "name": "Microsoft 365",
-    "icon": "SiMicrosoft",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft.svg",
     "plans": [
       { "name": "Personal", "price": 69.99, "currency": "USD" },
       { "name": "Family", "price": 99.99, "currency": "USD" }
@@ -115,7 +115,7 @@
   {
     "id": "youtube_premium",
     "name": "YouTube Premium",
-    "icon": "SiYoutube",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg",
     "plans": [
       { "name": "Individual", "price": 13.99, "currency": "USD" },
       { "name": "Family", "price": 22.99, "currency": "USD" },
@@ -126,7 +126,7 @@
   {
     "id": "dropbox",
     "name": "Dropbox",
-    "icon": "SiDropbox",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dropbox.svg",
     "plans": [
       { "name": "Plus", "price": 11.99, "currency": "USD" },
       { "name": "Family", "price": 19.99, "currency": "USD" },
@@ -137,7 +137,7 @@
   {
     "id": "google_one",
     "name": "Google One",
-    "icon": "SiGoogle",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg",
     "plans": [
       { "name": "100GB", "price": 1.99, "currency": "USD" },
       { "name": "200GB", "price": 2.99, "currency": "USD" },
@@ -148,7 +148,7 @@
   {
     "id": "hulu",
     "name": "Hulu",
-    "icon": "SiHulu",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hulu.svg",
     "plans": [
       { "name": "Basic", "price": 7.99, "currency": "USD" },
       { "name": "No Ads", "price": 17.99, "currency": "USD" }
@@ -158,7 +158,7 @@
   {
     "id": "hbomax",
     "name": "Max (HBO Max)",
-    "icon": "SiHbo",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hbo.svg",
     "plans": [
       { "name": "Standard", "price": 15.99, "currency": "USD" }
     ],
@@ -167,7 +167,7 @@
   {
     "id": "paramountplus",
     "name": "Paramount+",
-    "icon": "SiParamountplus",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paramountplus.svg",
     "plans": [
       { "name": "Essential", "price": 5.99, "currency": "USD" }
     ],
@@ -263,196 +263,196 @@
   {
     "id": "apple_arcade",
     "name": "Apple Arcade",
-    "icon": "SiApple",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apple.svg",
     "plans": [{ "name": "Monthly", "price": 6.99, "currency": "USD" }],
     "cancelURL": "https://support.apple.com/en-us/HT210331"
   },
   {
     "id": "apple_news_plus",
     "name": "Apple News+",
-    "icon": "SiApple",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apple.svg",
     "plans": [{ "name": "Monthly", "price": 12.99, "currency": "USD" }],
     "cancelURL": "https://support.apple.com/en-us/HT209441"
   },
   {
     "id": "apple_fitness_plus",
     "name": "Apple Fitness+",
-    "icon": "SiApple",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apple.svg",
     "plans": [{ "name": "Monthly", "price": 9.99, "currency": "USD" }],
     "cancelURL": "https://support.apple.com/en-us/HT211836"
   },
   {
     "id": "twitch_turbo",
     "name": "Twitch Turbo",
-    "icon": "SiTwitch",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitch.svg",
     "plans": [{ "name": "Monthly", "price": 11.99, "currency": "USD" }],
     "cancelURL": "https://help.twitch.tv/s/article/twitch-turbo-guide"
   },
   {
     "id": "discord_nitro",
     "name": "Discord Nitro",
-    "icon": "SiDiscord",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg",
     "plans": [{ "name": "Monthly", "price": 9.99, "currency": "USD" }],
     "cancelURL": "https://support.discord.com/hc/en-us/articles/360041033772"
   },
   {
     "id": "epic_games",
     "name": "Epic Games (Fortnite Crew)",
-    "icon": "SiEpicgames",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/epicgames.svg",
     "plans": [{ "name": "Fortnite Crew", "price": 11.99, "currency": "USD" }],
     "cancelURL": "https://www.epicgames.com/help/en-US/c73"
   },
   {
     "id": "playstation_plus",
     "name": "PlayStation Plus",
-    "icon": "SiPlaystation",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/playstation.svg",
     "plans": [{ "name": "Essential", "price": 9.99, "currency": "USD" }],
     "cancelURL": "https://www.playstation.com/en-us/support/subscriptions/cancel-playstation-plus/"
   },
   {
     "id": "nintendo_switch_online",
     "name": "Nintendo Switch Online",
-    "icon": "SiNintendo",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nintendo.svg",
     "plans": [{ "name": "Individual", "price": 3.99, "currency": "USD" }],
     "cancelURL": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22517"
   },
   {
     "id": "linkedin_premium",
     "name": "LinkedIn Premium",
-    "icon": "SiLinkedin",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg",
     "plans": [{ "name": "Career", "price": 39.99, "currency": "USD" }],
     "cancelURL": "https://www.linkedin.com/help/linkedin/answer/9270"
   },
   {
     "id": "asana",
     "name": "Asana",
-    "icon": "SiAsana",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/asana.svg",
     "plans": [{ "name": "Premium", "price": 10.99, "currency": "USD" }],
     "cancelURL": "https://asana.com/guide/help/premium/cancel"
   },
   {
     "id": "trello",
     "name": "Trello",
-    "icon": "SiTrello",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/trello.svg",
     "plans": [{ "name": "Premium", "price": 10.00, "currency": "USD" }],
     "cancelURL": "https://help.trello.com/article/744-canceling-trello-premium"
   },
   {
     "id": "zoom",
     "name": "Zoom",
-    "icon": "SiZoom",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zoom.svg",
     "plans": [{ "name": "Pro", "price": 14.99, "currency": "USD" }],
     "cancelURL": "https://support.zoom.us/hc/en-us/articles/201363183"
   },
   {
     "id": "dropbox_sign",
     "name": "Dropbox Sign",
-    "icon": "SiDropbox",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dropbox.svg",
     "plans": [{ "name": "Essentials", "price": 15.00, "currency": "USD" }],
     "cancelURL": "https://support.hellosign.com/hc/en-us/articles/217115577"
   },
   {
     "id": "box",
     "name": "Box",
-    "icon": "SiBox",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/box.svg",
     "plans": [{ "name": "Personal Pro", "price": 14.00, "currency": "USD" }],
     "cancelURL": "https://support.box.com/hc/en-us/articles/360043697574"
   },
   {
     "id": "protonmail",
     "name": "Proton Mail",
-    "icon": "SiProtonmail",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/protonmail.svg",
     "plans": [{ "name": "Mail Plus", "price": 4.99, "currency": "USD" }],
     "cancelURL": "https://proton.me/support/cancel-subscription"
   },
   {
     "id": "expressvpn",
     "name": "ExpressVPN",
-    "icon": "SiExpressvpn",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/expressvpn.svg",
     "plans": [{ "name": "Monthly", "price": 12.95, "currency": "USD" }],
     "cancelURL": "https://www.expressvpn.com/support/vpn-coupons/cancel-subscription/"
   },
   {
     "id": "nordvpn",
     "name": "NordVPN",
-    "icon": "SiNordvpn",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nordvpn.svg",
     "plans": [{ "name": "Standard", "price": 12.99, "currency": "USD" }],
     "cancelURL": "https://support.nordvpn.com/billing/cancellation/1047409422"
   },
   {
     "id": "adobe_stock",
     "name": "Adobe Stock",
-    "icon": "SiAdobe",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg",
     "plans": [{ "name": "10 assets/mo", "price": 29.99, "currency": "USD" }],
     "cancelURL": "https://helpx.adobe.com/stock/kb/cancel-stock-subscription.html"
   },
   {
     "id": "flickr_pro",
     "name": "Flickr Pro",
-    "icon": "SiFlickr",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/flickr.svg",
     "plans": [{ "name": "Annual", "price": 71.88, "currency": "USD" }],
     "cancelURL": "https://help.flickr.com/en_us/cancelling-flickr-pro-HyQH2mYmc"
   },
   {
     "id": "medium",
     "name": "Medium",
-    "icon": "SiMedium",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg",
     "plans": [{ "name": "Monthly", "price": 5.00, "currency": "USD" }],
     "cancelURL": "https://help.medium.com/hc/en-us/articles/115004678548"
   },
   {
     "id": "patreon",
     "name": "Patreon",
-    "icon": "SiPatreon",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/patreon.svg",
     "plans": [{ "name": "Supporter", "price": 5.00, "currency": "USD" }],
     "cancelURL": "https://support.patreon.com/hc/en-us/articles/204606215"
   },
   {
     "id": "substack",
     "name": "Substack",
-    "icon": "SiSubstack",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/substack.svg",
     "plans": [{ "name": "Monthly", "price": 5.00, "currency": "USD" }],
     "cancelURL": "https://support.substack.com/hc/en-us/articles/360050882412"
   },
   {
     "id": "onlyfans",
     "name": "OnlyFans",
-    "icon": "SiOnlyfans",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/onlyfans.svg",
     "plans": [{ "name": "Monthly", "price": 9.99, "currency": "USD" }],
     "cancelURL": "https://onlyfans.com/help/4"
   },
   {
     "id": "vimeo",
     "name": "Vimeo",
-    "icon": "SiVimeo",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vimeo.svg",
     "plans": [{ "name": "Plus", "price": 7.00, "currency": "USD" }],
     "cancelURL": "https://vimeo.zendesk.com/hc/en-us/articles/224818007"
   },
   {
     "id": "skillshare",
     "name": "Skillshare",
-    "icon": "SiSkillshare",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/skillshare.svg",
     "plans": [{ "name": "Annual", "price": 168.00, "currency": "USD" }],
     "cancelURL": "https://help.skillshare.com/hc/en-us/articles/210013183"
   },
   {
     "id": "masterclass",
     "name": "MasterClass",
-    "icon": "SiMastercard",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mastercard.svg",
     "plans": [{ "name": "Annual", "price": 120.00, "currency": "USD" }],
     "cancelURL": "https://support.masterclass.com/hc/en-us/articles/360035267133"
   },
   {
     "id": "coursera",
     "name": "Coursera Plus",
-    "icon": "SiCoursera",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/coursera.svg",
     "plans": [{ "name": "Annual", "price": 399.00, "currency": "USD" }],
     "cancelURL": "https://learner.coursera.help/hc/en-us/articles/360037189751"
   },
   {
     "id": "udemy",
     "name": "Udemy Personal Plan",
-    "icon": "SiUdemy",
+    "logoURL": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/udemy.svg",
     "plans": [{ "name": "Monthly", "price": 29.99, "currency": "USD" }],
     "cancelURL": "https://support.udemy.com/hc/en-us/articles/360049296994"
   }
