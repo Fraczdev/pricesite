@@ -2,7 +2,7 @@
   {
     "id": "icloud_plus",
     "name": "iCloud+",
-    "logoURL": "https://icon.horse/icon/icloud.com.png",
+    "logoURL": "/icons/icloud_plus.png",
     "plans": [
       { "name": "50GB", "price": 0.99, "currency": "USD" },
       { "name": "200GB", "price": 2.99, "currency": "USD" },
@@ -13,7 +13,7 @@
   {
     "id": "apple_music",
     "name": "Apple Music",
-    "logoURL": "https://icon.horse/icon/music.apple.com.png",
+    "logoURL": "/icons/apple_music.png",
     "plans": [
       { "name": "Individual", "price": 10.99, "currency": "USD" },
       { "name": "Family", "price": 16.99, "currency": "USD" },
@@ -24,7 +24,7 @@
   {
     "id": "apple_tv_plus",
     "name": "Apple TV+",
-    "logoURL": "https://icon.horse/icon/tv.apple.com.png",
+    "logoURL": "/icons/apple_tv_plus.png",
     "plans": [
       { "name": "Monthly", "price": 9.99, "currency": "USD" }
     ],
@@ -33,7 +33,7 @@
   {
     "id": "netflix",
     "name": "Netflix",
-    "logoURL": "https://icon.horse/icon/netflix.com.png",
+    "logoURL": "/icons/netflix.png",
     "plans": [
       { "name": "Standard", "price": 15.49, "currency": "USD" },
       { "name": "Premium", "price": 22.99, "currency": "USD" },
@@ -44,7 +44,7 @@
   {
     "id": "disney_plus",
     "name": "Disney+",
-    "logoURL": "https://icon.horse/icon/disneyplus.com.png",
+    "logoURL": "/icons/disney_plus.png",
     "plans": [
       { "name": "Monthly", "price": 7.99, "currency": "USD" },
       { "name": "Annual", "price": 79.99, "currency": "USD" }
@@ -54,7 +54,7 @@
   {
     "id": "spotify",
     "name": "Spotify",
-    "logoURL": "https://icon.horse/icon/spotify.com.png",
+    "logoURL": "/icons/spotify.png",
     "plans": [
       { "name": "Individual", "price": 10.99, "currency": "USD" },
       { "name": "Family", "price": 16.99, "currency": "USD" },
@@ -65,7 +65,7 @@
   {
     "id": "adobe_cc",
     "name": "Adobe Creative Cloud",
-    "logoURL": "https://icon.horse/icon/adobe.com.png",
+    "logoURL": "/icons/adobe_cc.png",
     "plans": [
       { "name": "All Apps", "price": 59.99, "currency": "USD" },
       { "name": "Photography", "price": 19.99, "currency": "USD" }
@@ -75,7 +75,7 @@
   {
     "id": "amazon_prime",
     "name": "Amazon Prime",
-    "logoURL": "https://icon.horse/icon/amazon.com.png",
+    "logoURL": "/icons/amazon_prime.png",
     "plans": [
       { "name": "Monthly", "price": 14.99, "currency": "USD" },
       { "name": "Annual", "price": 139.00, "currency": "USD" }
@@ -85,7 +85,7 @@
   {
     "id": "xbox_game_pass",
     "name": "Xbox Game Pass",
-    "logoURL": "https://icon.horse/icon/xbox.com.png",
+    "logoURL": "/icons/xbox_game_pass.png",
     "plans": [
       { "name": "Ultimate", "price": 16.99, "currency": "USD" },
       { "name": "PC", "price": 9.99, "currency": "USD" },
@@ -96,7 +96,7 @@
   {
     "id": "peloton",
     "name": "Peloton",
-    "logoURL": "https://icon.horse/icon/onepeloton.com.png",
+    "logoURL": "/icons/peloton.png",
     "plans": [
       { "name": "App One", "price": 12.99, "currency": "USD" },
       { "name": "App+", "price": 24.00, "currency": "USD" }
@@ -106,7 +106,7 @@
   {
     "id": "microsoft_365",
     "name": "Microsoft 365",
-    "logoURL": "https://icon.horse/icon/microsoft.com.png",
+    "logoURL": "/icons/microsoft_365.png",
     "plans": [
       { "name": "Personal", "price": 69.99, "currency": "USD" },
       { "name": "Family", "price": 99.99, "currency": "USD" }
@@ -116,7 +116,7 @@
   {
     "id": "youtube_premium",
     "name": "YouTube Premium",
-    "logoURL": "https://icon.horse/icon/youtube.com.png",
+    "logoURL": "/icons/youtube_premium.png",
     "plans": [
       { "name": "Individual", "price": 13.99, "currency": "USD" },
       { "name": "Family", "price": 22.99, "currency": "USD" },
@@ -127,7 +127,7 @@
   {
     "id": "dropbox",
     "name": "Dropbox",
-    "logoURL": "https://icon.horse/icon/dropbox.com.png",
+    "logoURL": "/icons/dropbox.png",
     "plans": [
       { "name": "Plus", "price": 11.99, "currency": "USD" },
       { "name": "Family", "price": 19.99, "currency": "USD" },
@@ -138,7 +138,7 @@
   {
     "id": "google_one",
     "name": "Google One",
-    "logoURL": "https://icon.horse/icon/google.com.png",
+    "logoURL": "/icons/google_one.png",
     "plans": [
       { "name": "100GB", "price": 1.99, "currency": "USD" },
       { "name": "200GB", "price": 2.99, "currency": "USD" },
