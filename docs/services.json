@@ -408,7 +408,7 @@
   {
     "id": "dropbox_sign",
     "name": "Dropbox Sign",
-    "logoURL": "/icons/dropbox_sign.png",
+    "logoURL": "/icons/Dropbox.png",
     "plans": [
       { "name": "Essentials", "price": 15.00, "currency": "USD" },
       { "name": "Standard", "price": 25.00, "currency": "USD" },
@@ -563,7 +563,7 @@
   {
     "id": "udemy_personal_plan",
     "name": "Udemy Personal Plan",
-    "logoURL": "/icons/udemy_personal_plan.png",
+    "logoURL": "/icons/Upwork.png",
     "plans": [
       { "name": "Personal Plan", "price": 29.99, "currency": "USD" }
     ],
