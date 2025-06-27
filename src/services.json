@@ -20,7 +20,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.apple.com/en-us/HT207689"
+    "cancelURL": "https://appleid.apple.com/account/manage"
   },
   {
     "id": "apple_music",
@@ -43,7 +43,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.apple.com/en-us/HT202039"
+    "cancelURL": "https://music.apple.com/account/settings"
   },
   {
     "id": "apple_tv_plus",
@@ -56,7 +56,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.apple.com/en-us/HT210551"
+    "cancelURL": "https://tv.apple.com/account/settings"
   },
   {
     "id": "netflix",
@@ -79,7 +79,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.netflix.com/en/node/407"
+    "cancelURL": "https://www.netflix.com/cancelplan"
   },
   {
     "id": "disney_plus",
@@ -97,7 +97,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.disneyplus.com/csp?id=csp_article_content&article=Cancel-Disney-Plus"
+    "cancelURL": "https://www.disneyplus.com/account/subscription"
   },
   {
     "id": "spotify",
@@ -120,7 +120,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.spotify.com/us/article/cancel-premium/"
+    "cancelURL": "https://www.spotify.com/us/account/subscription/"
   },
   {
     "id": "adobe_cc",
@@ -138,7 +138,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://helpx.adobe.com/manage-account/using/cancel-subscription.html"
+    "cancelURL": "https://account.adobe.com/plans"
   },
   {
     "id": "amazon_prime",
@@ -156,7 +156,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2MQS5RMHEFZ4K2D"
+    "cancelURL": "https://www.amazon.com/mc/yourprimemembership"
   },
   {
     "id": "xbox_game_pass",
@@ -179,7 +179,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.xbox.com/en-US/help/subscriptions-billing/manage-subscriptions/cancel-recurring-billing-or-subscription"
+    "cancelURL": "https://account.microsoft.com/services/xbox/billing"
   },
   {
     "id": "peloton",
@@ -197,7 +197,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.onepeloton.com/hc/en-us/articles/360044202032-How-do-I-cancel-my-Peloton-Membership-"
+    "cancelURL": "https://account.onepeloton.com/membership"
   },
   {
     "id": "microsoft_365",
@@ -215,7 +215,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://account.microsoft.com/services"
+    "cancelURL": "https://account.microsoft.com/services/"
   },
   {
     "id": "youtube_premium",
@@ -238,7 +238,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.google.com/youtube/answer/6306276?hl=en"
+    "cancelURL": "https://www.youtube.com/paid_memberships"
   },
   {
     "id": "dropbox",
@@ -261,7 +261,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.dropbox.com/accounts-billing/cancellations-refunds/cancel-subscription"
+    "cancelURL": "https://www.dropbox.com/account/billing"
   },
   {
     "id": "google_one",
@@ -284,7 +284,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.google.com/googleone/answer/9056360?hl=en"
+    "cancelURL": "https://one.google.com/settings"
   },
   {
     "id": "hulu",
@@ -307,7 +307,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.hulu.com/s/article/cancel-subscription"
+    "cancelURL": "https://secure.hulu.com/account"
   },
   {
     "id": "max",
@@ -330,7 +330,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.max.com/us/Answer/Detail/000002439"
+    "cancelURL": "https://play.max.com/settings/subscription"
   },
   {
     "id": "paramount_plus",
@@ -348,7 +348,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.paramountplus.com/s/article/PD-How-do-I-cancel-my-subscription"
+    "cancelURL": "https://account.paramountplus.com/us/subscription"
   },
   {
     "id": "crunchyroll",
@@ -371,7 +371,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.crunchyroll.com/hc/en-us/articles/360037490094"
+    "cancelURL": "https://www.crunchyroll.com/acct/?action=premium"
   },
   {
     "id": "audible",
@@ -389,7 +389,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://audible.custhelp.com/app/answers/detail/a_id/5035"
+    "cancelURL": "https://www.audible.com/account/payments-and-billing"
   },
   {
     "id": "slack",
@@ -412,7 +412,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://slack.com/help/articles/203953146-Cancel-your-Slack-subscription"
+    "cancelURL": "https://slack.com/billing"
   },
   {
     "id": "notion",
@@ -435,7 +435,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://www.notion.so/help/cancel-subscription"
+    "cancelURL": "https://www.notion.so/my-account"
   },
   {
     "id": "duolingo_plus",
@@ -453,7 +453,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.duolingo.com/hc/en-us/articles/360035936331"
+    "cancelURL": "https://www.duolingo.com/settings/billing"
   },
   {
     "id": "evernote",
@@ -471,7 +471,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.evernote.com/hc/en-us/articles/208313748"
+    "cancelURL": "https://www.evernote.com/Settings.action?page=billing"
   },
   {
     "id": "1password",
@@ -494,7 +494,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.1password.com/cancel-account/"
+    "cancelURL": "https://my.1password.com/billing"
   },
   {
     "id": "calm",
@@ -512,7 +512,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.calm.com/hc/en-us/articles/360007533653"
+    "cancelURL": "https://www.calm.com/account"
   },
   {
     "id": "headspace",
@@ -530,7 +530,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.headspace.com/hc/en-us/articles/360047130234"
+    "cancelURL": "https://www.headspace.com/settings/billing"
   },
   {
     "id": "canva",
@@ -548,7 +548,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://www.canva.com/help/cancel-subscription/"
+    "cancelURL": "https://www.canva.com/settings/billing-and-teams/billing"
   },
   {
     "id": "apple_arcade",
@@ -566,7 +566,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.apple.com/en-us/HT207865"
+    "cancelURL": "https://appleid.apple.com/account/manage"
   },
   {
     "id": "apple_news_plus",
@@ -579,7 +579,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.apple.com/en-us/HT208094"
+    "cancelURL": "https://appleid.apple.com/account/manage"
   },
   {
     "id": "apple_fitness_plus",
@@ -597,7 +597,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.apple.com/en-us/HT211523"
+    "cancelURL": "https://appleid.apple.com/account/manage"
   },
   {
     "id": "twitch_turbo",
@@ -610,7 +610,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.twitch.tv/s/article/turbo-faq"
+    "cancelURL": "https://www.twitch.tv/settings/billing"
   },
   {
     "id": "discord_nitro",
@@ -628,7 +628,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.discord.com/hc/en-us/articles/360005668731"
+    "cancelURL": "https://discord.com/billing"
   },
   {
     "id": "epic_games_fortnite_crew",
@@ -641,7 +641,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://www.epicgames.com/help/en-US/fortnite-c75/fortnite-crew-c130"
+    "cancelURL": "https://www.epicgames.com/account/billing"
   },
   {
     "id": "playstation_plus",
@@ -664,7 +664,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://www.playstation.com/en-us/support/subscriptions/ps-plus-cancel-subscription/"
+    "cancelURL": "https://www.playstation.com/account/management/wallet"
   },
   {
     "id": "nintendo_switch_online",
@@ -692,7 +692,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/41203"
+    "cancelURL": "https://accounts.nintendo.com/"
   },
   {
     "id": "linkedin_premium",
@@ -715,7 +715,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://www.linkedin.com/help/linkedin/answer/a548840"
+    "cancelURL": "https://www.linkedin.com/premium/manage/"
   },
   {
     "id": "asana",
@@ -733,7 +733,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://asana.com/guide/help/premium/billing#gl-billing-cancellation"
+    "cancelURL": "https://app.asana.com/admin/billing"
   },
   {
     "id": "trello",
@@ -756,7 +756,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.atlassian.com/trello/docs/how-do-i-cancel-my-trello-subscription/"
+    "cancelURL": "https://trello.com/billing"
   },
   {
     "id": "zoom",
@@ -779,7 +779,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.zoom.us/hc/en-us/articles/201362733"
+    "cancelURL": "https://zoom.us/billing"
   },
   {
     "id": "dropbox_sign",
@@ -802,7 +802,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.dropbox.com/accounts-billing/sign-cancellation"
+    "cancelURL": "https://www.dropbox.com/account/billing"
   },
   {
     "id": "box",
@@ -825,7 +825,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.box.com/hc/en-us/articles/360043696714"
+    "cancelURL": "https://app.box.com/account/billing"
   },
   {
     "id": "proton_mail",
@@ -843,7 +843,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://proton.me/support/cancel-subscription"
+    "cancelURL": "https://account.proton.me/billing"
   },
   {
     "id": "expressvpn",
@@ -866,7 +866,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://www.expressvpn.com/support/troubleshooting/cancel-subscription/"
+    "cancelURL": "https://www.expressvpn.com/subscriptions"
   },
   {
     "id": "nordvpn",
@@ -889,7 +889,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.nordvpn.com/Billing/Payments/1047408692"
+    "cancelURL": "https://my.nordaccount.com/billing/"
   },
   {
     "id": "adobe_stock",
@@ -912,7 +912,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://helpx.adobe.com/stock/using/cancel-subscription.html"
+    "cancelURL": "https://account.adobe.com/plans"
   },
   {
     "id": "flickr_pro",
@@ -930,7 +930,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.flickr.com/en_us/cancel-flickr-pro-subscription-BJzQFzK7H"
+    "cancelURL": "https://www.flickr.com/account/billing/"
   },
   {
     "id": "medium",
@@ -948,7 +948,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.medium.com/hc/en-us/articles/115004745787"
+    "cancelURL": "https://medium.com/me/settings/membership"
   },
   {
     "id": "patreon",
@@ -966,7 +966,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.patreon.com/hc/en-us/articles/204606315"
+    "cancelURL": "https://www.patreon.com/settings/billing"
   },
   {
     "id": "substack",
@@ -979,7 +979,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.substack.com/hc/en-us/articles/360037466012"
+    "cancelURL": "https://substack.com/settings/billing"
   },
   {
     "id": "onlyfans",
@@ -992,7 +992,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://onlyfans.com/help"
+    "cancelURL": "https://onlyfans.com/my/billing/subscriptions"
   },
   {
     "id": "vimeo",
@@ -1015,7 +1015,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.vimeo.com/hc/en-us/articles/224817847"
+    "cancelURL": "https://vimeo.com/settings/billing"
   },
   {
     "id": "skillshare",
@@ -1033,7 +1033,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.skillshare.com/hc/en-us/articles/201387077"
+    "cancelURL": "https://www.skillshare.com/billing"
   },
   {
     "id": "masterclass",
@@ -1056,7 +1056,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://help.masterclass.com/hc/en-us/articles/360018156052"
+    "cancelURL": "https://www.masterclass.com/account/billing"
   },
   {
     "id": "coursera_plus",
@@ -1074,7 +1074,7 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://learner.coursera.help/hc/en-us/articles/208280266"
+    "cancelURL": "https://www.coursera.org/account-settings"
   },
   {
     "id": "udemy_personal_plan",
@@ -1087,6 +1087,6 @@
         "currency": "USD"
       }
     ],
-    "cancelURL": "https://support.udemy.com/hc/en-us/articles/229232707"
+    "cancelURL": "https://www.udemy.com/user/edit-credit-payment-info/"
   }
 ]

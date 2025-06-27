@@ -1,5 +1,5 @@
 // Update icon URLs with Imgur links
-const fs = require('fs');
+import fs from 'fs';
 
 // Icon URL mappings based on your uploads
 const iconUrls = {
@@ -52,7 +52,16 @@ const iconUrls = {
   '/icons/Xbox_Live.png': 'https://i.imgur.com/uYWWRt6.png',
   '/icons/Youtube_Premium.png': 'https://i.imgur.com/10c1wGT.png',
   '/icons/Zoom.png': 'https://i.imgur.com/CzSbHMZ.png',
-  '/icons/Netflix.png': 'https://i.imgur.com/LsMrkGy.png'
+  '/icons/Netflix.png': 'https://i.imgur.com/LsMrkGy.png',
+  
+  // Missing icons provided by user
+  '/icons/arcade.png': 'https://i.imgur.com/pbbz9II.png',
+  '/icons/Medium.png': 'https://i.imgur.com/l6gbUEc.png',
+  '/icons/applefitness.png': 'https://i.imgur.com/8ptQymD.png', // Updated URL
+  '/icons/Adobe_Cloud.png': 'https://i.imgur.com/AthUPYP.png',
+  '/icons/masterclass.png': 'https://i.imgur.com/TbzrRzM.png',
+  '/icons/dropbox_sign.png': 'https://i.imgur.com/AkrZL42.png',
+  '/icons/Dropbox.png': 'https://i.imgur.com/AkrZL42.png'
 };
 
 function updateIconUrls(filePath) {
@@ -84,11 +93,5 @@ console.log('🚀 Updating icon URLs...\n');
 updateIconUrls('./src/services.json');
 updateIconUrls('./public/services.json');
 
-console.log('\n📋 STILL MISSING - Please upload these:');
-console.log('- Apple Arcade (arcade.png)');
-console.log('- Dropbox (Dropbox.png)');
-console.log('- Dropbox Sign (dropbox_sign.png)');
-console.log('- Adobe Stock (Adobe_Cloud.png)');
-console.log('- Medium (Medium.png)');
-console.log('- MasterClass (masterclass.png)');
-console.log('\n🔨 After uploading missing icons, run: npm run build');
+console.log('\n✨ All icons updated with Imgur URLs!');
+console.log('🔨 Run: npm run build');
