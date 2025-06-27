@@ -563,7 +563,7 @@
   {
     "id": "udemy_personal_plan",
     "name": "Udemy Personal Plan",
-    "logoURL": "/icons/udemy.png",
+    "logoURL": "/icons/Udemy.png",
     "plans": [
       { "name": "Personal Plan", "price": 29.99, "currency": "USD" }
     ],
