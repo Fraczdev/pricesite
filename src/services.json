@@ -2,7 +2,7 @@
   {
     "id": "icloud_plus",
     "name": "iCloud+",
-    "logoURL": "/icons/icloud_plus.png",
+    "logoURL": "/icons/image (1).png",
     "plans": [
       { "name": "50GB", "price": 0.99, "currency": "USD" },
       { "name": "200GB", "price": 2.99, "currency": "USD" },
@@ -13,7 +13,7 @@
   {
     "id": "apple_music",
     "name": "Apple Music",
-    "logoURL": "/icons/apple_music.png",
+    "logoURL": "/icons/image (2).png",
     "plans": [
       { "name": "Individual", "price": 10.99, "currency": "USD" },
       { "name": "Family", "price": 16.99, "currency": "USD" },
@@ -24,7 +24,7 @@
   {
     "id": "apple_tv_plus",
     "name": "Apple TV+",
-    "logoURL": "/icons/apple_tv_plus.png",
+    "logoURL": "/icons/image (3).png",
     "plans": [
       { "name": "Monthly", "price": 9.99, "currency": "USD" }
     ],
@@ -33,7 +33,7 @@
   {
     "id": "netflix",
     "name": "Netflix",
-    "logoURL": "/icons/netflix.png",
+    "logoURL": "/icons/image (4).png",
     "plans": [
       { "name": "Standard", "price": 15.49, "currency": "USD" },
       { "name": "Premium", "price": 22.99, "currency": "USD" },

@@ -2,7 +2,7 @@
   {
     "id": "icloud_plus",
     "name": "iCloud+",
-    "logoURL": "/icons/icloud_plus.png",
+    "logoURL": "/icons/image (1).png",
     "plans": [
       { "name": "50GB", "price": 0.99, "currency": "USD" },
       { "name": "200GB", "price": 2.99, "currency": "USD" },
@@ -13,7 +13,7 @@
   {
     "id": "apple_music",
     "name": "Apple Music",
-    "logoURL": "/icons/apple_music.png",
+    "logoURL": "/icons/image (2).png",
     "plans": [
       { "name": "Individual", "price": 10.99, "currency": "USD" },
       { "name": "Family", "price": 16.99, "currency": "USD" },
@@ -24,7 +24,7 @@
   {
     "id": "apple_tv_plus",
     "name": "Apple TV+",
-    "logoURL": "/icons/apple_tv_plus.png",
+    "logoURL": "/icons/image (3).png",
     "plans": [
       { "name": "Monthly", "price": 9.99, "currency": "USD" }
     ],
@@ -33,7 +33,7 @@
   {
     "id": "netflix",
     "name": "Netflix",
-    "logoURL": "/icons/netflix.png",
+    "logoURL": "/icons/image (4).png",
     "plans": [
       { "name": "Standard", "price": 15.49, "currency": "USD" },
       { "name": "Premium", "price": 22.99, "currency": "USD" },
@@ -44,7 +44,7 @@
   {
     "id": "disney_plus",
     "name": "Disney+",
-    "logoURL": "/icons/disney_plus.png",
+    "logoURL": "/icons/image (5).png",
     "plans": [
       { "name": "Monthly", "price": 7.99, "currency": "USD" },
       { "name": "Annual", "price": 79.99, "currency": "USD" }
@@ -54,7 +54,7 @@
   {
     "id": "spotify",
     "name": "Spotify",
-    "logoURL": "/icons/spotify.png",
+    "logoURL": "/icons/image (6).png",
     "plans": [
       { "name": "Individual", "price": 10.99, "currency": "USD" },
       { "name": "Family", "price": 16.99, "currency": "USD" },
@@ -65,7 +65,7 @@
   {
     "id": "adobe_cc",
     "name": "Adobe Creative Cloud",
-    "logoURL": "/icons/adobe_cc.png",
+    "logoURL": "/icons/image (7).png",
     "plans": [
       { "name": "All Apps", "price": 59.99, "currency": "USD" },
       { "name": "Photography", "price": 19.99, "currency": "USD" }
@@ -75,7 +75,7 @@
   {
     "id": "amazon_prime",
     "name": "Amazon Prime",
-    "logoURL": "/icons/amazon_prime.png",
+    "logoURL": "/icons/image (8).png",
     "plans": [
       { "name": "Monthly", "price": 14.99, "currency": "USD" },
       { "name": "Annual", "price": 139.00, "currency": "USD" }
@@ -85,7 +85,7 @@
   {
     "id": "xbox_game_pass",
     "name": "Xbox Game Pass",
-    "logoURL": "/icons/xbox_game_pass.png",
+    "logoURL": "/icons/image (9).png",
     "plans": [
       { "name": "Ultimate", "price": 16.99, "currency": "USD" },
       { "name": "PC", "price": 9.99, "currency": "USD" },
@@ -96,7 +96,7 @@
   {
     "id": "peloton",
     "name": "Peloton",
-    "logoURL": "/icons/peloton.png",
+    "logoURL": "/icons/image (10).png",
     "plans": [
       { "name": "App One", "price": 12.99, "currency": "USD" },
       { "name": "App+", "price": 24.00, "currency": "USD" }
@@ -106,7 +106,7 @@
   {
     "id": "microsoft_365",
     "name": "Microsoft 365",
-    "logoURL": "/icons/microsoft_365.png",
+    "logoURL": "/icons/image (11).png",
     "plans": [
       { "name": "Personal", "price": 69.99, "currency": "USD" },
       { "name": "Family", "price": 99.99, "currency": "USD" }
@@ -116,7 +116,7 @@
   {
     "id": "youtube_premium",
     "name": "YouTube Premium",
-    "logoURL": "/icons/youtube_premium.png",
+    "logoURL": "/icons/image (12).png",
     "plans": [
       { "name": "Individual", "price": 13.99, "currency": "USD" },
       { "name": "Family", "price": 22.99, "currency": "USD" },
@@ -127,7 +127,7 @@
   {
     "id": "dropbox",
     "name": "Dropbox",
-    "logoURL": "/icons/dropbox.png",
+    "logoURL": "/icons/image (13).png",
     "plans": [
       { "name": "Plus", "price": 11.99, "currency": "USD" },
       { "name": "Family", "price": 19.99, "currency": "USD" },
@@ -138,7 +138,7 @@
   {
     "id": "google_one",
     "name": "Google One",
-    "logoURL": "/icons/google_one.png",
+    "logoURL": "/icons/image (14).png",
     "plans": [
       { "name": "100GB", "price": 1.99, "currency": "USD" },
       { "name": "200GB", "price": 2.99, "currency": "USD" },
@@ -149,7 +149,7 @@
   {
     "id": "hulu",
     "name": "Hulu",
-    "logoURL": "/icons/hulu.png",
+    "logoURL": "/icons/image (15).png",
     "plans": [
       { "name": "Hulu", "price": 7.99, "currency": "USD" },
       { "name": "Hulu (No Ads)", "price": 17.99, "currency": "USD" },
@@ -160,7 +160,7 @@
   {
     "id": "max",
     "name": "Max (HBO Max)",
-    "logoURL": "/icons/max.png",
+    "logoURL": "/icons/image (16).png",
     "plans": [
       { "name": "With Ads", "price": 9.99, "currency": "USD" },
       { "name": "Ad-Free", "price": 15.99, "currency": "USD" },
@@ -171,7 +171,7 @@
   {
     "id": "paramount_plus",
     "name": "Paramount+",
-    "logoURL": "/icons/paramount_plus.png",
+    "logoURL": "/icons/image (17).png",
     "plans": [
       { "name": "Essential", "price": 5.99, "currency": "USD" },
       { "name": "Showtime", "price": 11.99, "currency": "USD" }
@@ -181,7 +181,7 @@
   {
     "id": "crunchyroll",
     "name": "Crunchyroll",
-    "logoURL": "/icons/crunchyroll.png",
+    "logoURL": "/icons/image (18).png",
     "plans": [
       { "name": "Fan", "price": 7.99, "currency": "USD" },
       { "name": "Mega Fan", "price": 9.99, "currency": "USD" },
@@ -192,7 +192,7 @@
   {
     "id": "audible",
     "name": "Audible",
-    "logoURL": "/icons/audible.png",
+    "logoURL": "/icons/image (19).png",
     "plans": [
       { "name": "Audible Plus", "price": 7.95, "currency": "USD" },
       { "name": "Audible Premium Plus", "price": 14.95, "currency": "USD" }
@@ -202,7 +202,7 @@
   {
     "id": "slack",
     "name": "Slack",
-    "logoURL": "/icons/slack.png",
+    "logoURL": "/icons/image (20).png",
     "plans": [
       { "name": "Pro", "price": 7.25, "currency": "USD" },
       { "name": "Business+", "price": 12.50, "currency": "USD" },
@@ -213,7 +213,7 @@
   {
     "id": "notion",
     "name": "Notion",
-    "logoURL": "/icons/notion.png",
+    "logoURL": "/icons/image (21).png",
     "plans": [
       { "name": "Plus", "price": 8.00, "currency": "USD" },
       { "name": "Business", "price": 15.00, "currency": "USD" },
@@ -224,7 +224,7 @@
   {
     "id": "duolingo_plus",
     "name": "Duolingo Plus",
-    "logoURL": "/icons/duolingo_plus.png",
+    "logoURL": "/icons/image (22).png",
     "plans": [
       { "name": "Monthly", "price": 12.99, "currency": "USD" },
       { "name": "Annual", "price": 83.99, "currency": "USD" }
@@ -234,7 +234,7 @@
   {
     "id": "evernote",
     "name": "Evernote",
-    "logoURL": "/icons/evernote.png",
+    "logoURL": "/icons/image (23).png",
     "plans": [
       { "name": "Personal", "price": 7.99, "currency": "USD" },
       { "name": "Professional", "price": 9.99, "currency": "USD" }
@@ -244,7 +244,7 @@
   {
     "id": "1password",
     "name": "1Password",
-    "logoURL": "/icons/1password.png",
+    "logoURL": "/icons/image (24).png",
     "plans": [
       { "name": "Individual", "price": 2.99, "currency": "USD" },
       { "name": "Families", "price": 4.99, "currency": "USD" },
@@ -255,7 +255,7 @@
   {
     "id": "calm",
     "name": "Calm",
-    "logoURL": "/icons/calm.png",
+    "logoURL": "/icons/image (25).png",
     "plans": [
       { "name": "Monthly", "price": 14.99, "currency": "USD" },
       { "name": "Annual", "price": 69.99, "currency": "USD" }
@@ -265,7 +265,7 @@
   {
     "id": "headspace",
     "name": "Headspace",
-    "logoURL": "/icons/headspace.png",
+    "logoURL": "/icons/image (26).png",
     "plans": [
       { "name": "Monthly", "price": 12.99, "currency": "USD" },
       { "name": "Annual", "price": 69.99, "currency": "USD" }
@@ -275,7 +275,7 @@
   {
     "id": "canva",
     "name": "Canva",
-    "logoURL": "/icons/canva.png",
+    "logoURL": "/icons/image (27).png",
     "plans": [
       { "name": "Pro", "price": 14.99, "currency": "USD" },
       { "name": "Teams", "price": 14.99, "currency": "USD" }
@@ -285,7 +285,7 @@
   {
     "id": "apple_arcade",
     "name": "Apple Arcade",
-    "logoURL": "/icons/apple_arcade.png",
+    "logoURL": "/icons/image (28).png",
     "plans": [
       { "name": "Monthly", "price": 6.99, "currency": "USD" },
       { "name": "Annual", "price": 49.99, "currency": "USD" }
@@ -295,7 +295,7 @@
   {
     "id": "apple_news_plus",
     "name": "Apple News+",
-    "logoURL": "/icons/apple_news_plus.png",
+    "logoURL": "/icons/image (29).png",
     "plans": [
       { "name": "Monthly", "price": 9.99, "currency": "USD" }
     ],
@@ -304,7 +304,7 @@
   {
     "id": "apple_fitness_plus",
     "name": "Apple Fitness+",
-    "logoURL": "/icons/apple_fitness_plus.png",
+    "logoURL": "/icons/image (30).png",
     "plans": [
       { "name": "Monthly", "price": 9.99, "currency": "USD" },
       { "name": "Annual", "price": 79.99, "currency": "USD" }
@@ -314,7 +314,7 @@
   {
     "id": "twitch_turbo",
     "name": "Twitch Turbo",
-    "logoURL": "/icons/twitch_turbo.png",
+    "logoURL": "/icons/image (31).png",
     "plans": [
       { "name": "Monthly", "price": 8.99, "currency": "USD" }
     ],
@@ -323,7 +323,7 @@
   {
     "id": "discord_nitro",
     "name": "Discord Nitro",
-    "logoURL": "/icons/discord_nitro.png",
+    "logoURL": "/icons/image (32).png",
     "plans": [
       { "name": "Nitro Basic", "price": 2.99, "currency": "USD" },
       { "name": "Nitro", "price": 9.99, "currency": "USD" }
@@ -333,7 +333,7 @@
   {
     "id": "epic_games_fortnite_crew",
     "name": "Epic Games (Fortnite Crew)",
-    "logoURL": "/icons/epic_games.png",
+    "logoURL": "/icons/image (33).png",
     "plans": [
       { "name": "Monthly", "price": 11.99, "currency": "USD" }
     ],
@@ -342,7 +342,7 @@
   {
     "id": "playstation_plus",
     "name": "PlayStation Plus",
-    "logoURL": "/icons/playstation_plus.png",
+    "logoURL": "/icons/image (34).png",
     "plans": [
       { "name": "Essential", "price": 9.99, "currency": "USD" },
       { "name": "Extra", "price": 14.99, "currency": "USD" },
@@ -353,7 +353,7 @@
   {
     "id": "nintendo_switch_online",
     "name": "Nintendo Switch Online",
-    "logoURL": "/icons/nintendo_switch_online.png",
+    "logoURL": "/icons/image (35).png",
     "plans": [
       { "name": "Individual", "price": 3.99, "currency": "USD" },
       { "name": "Family", "price": 7.99, "currency": "USD" },
@@ -365,7 +365,7 @@
   {
     "id": "linkedin_premium",
     "name": "LinkedIn Premium",
-    "logoURL": "/icons/linkedin_premium.png",
+    "logoURL": "/icons/image (36).png",
     "plans": [
       { "name": "Career", "price": 29.99, "currency": "USD" },
       { "name": "Business", "price": 59.99, "currency": "USD" },
@@ -376,7 +376,7 @@
   {
     "id": "asana",
     "name": "Asana",
-    "logoURL": "/icons/asana.png",
+    "logoURL": "/icons/image (37).png",
     "plans": [
       { "name": "Starter", "price": 10.99, "currency": "USD" },
       { "name": "Advanced", "price": 24.99, "currency": "USD" }
@@ -386,7 +386,7 @@
   {
     "id": "trello",
     "name": "Trello",
-    "logoURL": "/icons/trello.png",
+    "logoURL": "/icons/image (38).png",
     "plans": [
       { "name": "Standard", "price": 5.00, "currency": "USD" },
       { "name": "Premium", "price": 10.00, "currency": "USD" },
@@ -397,7 +397,7 @@
   {
     "id": "zoom",
     "name": "Zoom",
-    "logoURL": "/icons/zoom.png",
+    "logoURL": "/icons/image (39).png",
     "plans": [
       { "name": "Pro", "price": 14.99, "currency": "USD" },
       { "name": "Business", "price": 19.99, "currency": "USD" },
@@ -408,7 +408,7 @@
   {
     "id": "dropbox_sign",
     "name": "Dropbox Sign",
-    "logoURL": "/icons/dropbox_sign.png",
+    "logoURL": "/icons/image (40).png",
     "plans": [
       { "name": "Essentials", "price": 15.00, "currency": "USD" },
       { "name": "Standard", "price": 25.00, "currency": "USD" },
@@ -419,7 +419,7 @@
   {
     "id": "box",
     "name": "Box",
-    "logoURL": "/icons/box.png",
+    "logoURL": "/icons/image (41).png",
     "plans": [
       { "name": "Personal Pro", "price": 10.00, "currency": "USD" },
       { "name": "Business Starter", "price": 5.00, "currency": "USD" },
@@ -430,7 +430,7 @@
   {
     "id": "proton_mail",
     "name": "Proton Mail",
-    "logoURL": "/icons/proton_mail.png",
+    "logoURL": "/icons/image (42).png",
     "plans": [
       { "name": "Mail Plus", "price": 3.99, "currency": "USD" },
       { "name": "Proton Unlimited", "price": 9.99, "currency": "USD" }
@@ -440,7 +440,7 @@
   {
     "id": "expressvpn",
     "name": "ExpressVPN",
-    "logoURL": "/icons/expressvpn.png",
+    "logoURL": "/icons/image (43).png",
     "plans": [
       { "name": "Monthly", "price": 12.95, "currency": "USD" },
       { "name": "6 Months", "price": 9.99, "currency": "USD" },
@@ -451,7 +451,7 @@
   {
     "id": "nordvpn",
     "name": "NordVPN",
-    "logoURL": "/icons/nordvpn.png",
+    "logoURL": "/icons/image (44).png",
     "plans": [
       { "name": "Monthly", "price": 11.99, "currency": "USD" },
       { "name": "1 Year", "price": 4.99, "currency": "USD" },
@@ -462,7 +462,7 @@
   {
     "id": "adobe_stock",
     "name": "Adobe Stock",
-    "logoURL": "/icons/adobe_stock.png",
+    "logoURL": "/icons/image (45).png",
     "plans": [
       { "name": "10 Assets", "price": 29.99, "currency": "USD" },
       { "name": "40 Assets", "price": 49.99, "currency": "USD" },
@@ -473,7 +473,7 @@
   {
     "id": "flickr_pro",
     "name": "Flickr Pro",
-    "logoURL": "/icons/flickr_pro.png",
+    "logoURL": "/icons/image (46).png",
     "plans": [
       { "name": "Monthly", "price": 8.25, "currency": "USD" },
       { "name": "Annual", "price": 71.99, "currency": "USD" }
@@ -483,7 +483,7 @@
   {
     "id": "medium",
     "name": "Medium",
-    "logoURL": "/icons/medium.png",
+    "logoURL": "/icons/image (47).png",
     "plans": [
       { "name": "Monthly", "price": 5.00, "currency": "USD" },
       { "name": "Annual", "price": 50.00, "currency": "USD" }
@@ -493,7 +493,7 @@
   {
     "id": "patreon",
     "name": "Patreon",
-    "logoURL": "/icons/patreon.png",
+    "logoURL": "/icons/image (48).png",
     "plans": [
       { "name": "Pro", "price": 8.00, "currency": "USD" },
       { "name": "Premium", "price": 12.00, "currency": "USD" }
@@ -503,7 +503,7 @@
   {
     "id": "substack",
     "name": "Substack",
-    "logoURL": "/icons/substack.png",
+    "logoURL": "/icons/image (49).png",
     "plans": [
       { "name": "Pro", "price": 50.00, "currency": "USD" }
     ],
@@ -512,7 +512,7 @@
   {
     "id": "onlyfans",
     "name": "OnlyFans",
-    "logoURL": "/icons/onlyfans.png",
+    "logoURL": "/icons/image (50).png",
     "plans": [
       { "name": "Variable Subscription", "price": 0.00, "currency": "USD" }
     ],
@@ -521,7 +521,7 @@
   {
     "id": "vimeo",
     "name": "Vimeo",
-    "logoURL": "/icons/vimeo.png",
+    "logoURL": "/icons/image (51).png",
     "plans": [
       { "name": "Plus", "price": 7.00, "currency": "USD" },
       { "name": "Pro", "price": 20.00, "currency": "USD" },
@@ -532,7 +532,7 @@
   {
     "id": "skillshare",
     "name": "Skillshare",
-    "logoURL": "/icons/skillshare.png",
+    "logoURL": "/icons/image (52).png",
     "plans": [
       { "name": "Premium", "price": 13.75, "currency": "USD" },
       { "name": "Teams", "price": 99.00, "currency": "USD" }
@@ -542,7 +542,7 @@
   {
     "id": "masterclass",
     "name": "MasterClass",
-    "logoURL": "/icons/masterclass.png",
+    "logoURL": "/icons/image (53).png",
     "plans": [
       { "name": "Standard", "price": 10.00, "currency": "USD" },
       { "name": "Plus", "price": 15.00, "currency": "USD" },
@@ -553,7 +553,7 @@
   {
     "id": "coursera_plus",
     "name": "Coursera Plus",
-    "logoURL": "/icons/coursera_plus.png",
+    "logoURL": "/icons/image (54).png",
     "plans": [
       { "name": "Monthly", "price": 59.00, "currency": "USD" },
       { "name": "Annual", "price": 399.00, "currency": "USD" }
@@ -563,7 +563,7 @@
   {
     "id": "udemy_personal_plan",
     "name": "Udemy Personal Plan",
-    "logoURL": "/icons/udemy_personal_plan.png",
+    "logoURL": "/icons/image (55).png",
     "plans": [
       { "name": "Personal Plan", "price": 29.99, "currency": "USD" }
     ],
