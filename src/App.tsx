@@ -36,6 +36,7 @@ const App: React.FC = () => {
   }, [services, searchTerm]);
 
   useEffect(() => {
+    console.log('🚀 Loading services data - Build timestamp:', new Date().toISOString());
     fetch('./services.json')
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load services');
