@@ -1,6 +1,8 @@
 import React, { useEffect, useState, useMemo } from 'react';
 import './App.css';
 
+console.log(' This is a silly log');
+
 interface Plan {
   name: string;
   price: number;
